@@ -19,6 +19,12 @@ A: You can hide or show Windows Updates (unless you borrow it) forever in a easy
 <br>
 <br>
 <br>
+Q: In what situation I can use this tool?
+<br>
+A: You can use this tool to hide buggy or problematic Windows Updates, so that the updates will never show or will install again (unless you recall the hiding).
+<br>
+<br>
+<br>
 Download Link: https://github.com/thedoggybrad/wushowhide.diagcab/raw/main/wushowhide.diagcab
 <br>
 Note: Thedoggybrad will have no liabilities in anyway due to use of this troubleshooting software.
