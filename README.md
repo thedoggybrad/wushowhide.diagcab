@@ -8,7 +8,7 @@ It can hide or show a specific update forever or unless you reverse your decisio
 <br>
 Q: Why this repository exists in the first place?
 <br>
-A: Microsoft had shutted down the official link of the file. Luckily it is archived on WayBack Machine.
+A: Microsoft had shutted down the official link of the file. Luckily, it is archived on WayBack Machine.
 Now, I had decided to create a repository for it due to its low popularity.
 <br>
 <br>
