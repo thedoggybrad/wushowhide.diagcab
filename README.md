@@ -1,5 +1,5 @@
 # Windows Show or Hide Updates Troubleshooter
-The official "Windows Show or Hide Updates Troubleshooter" is a tool Microsoft Corporation had created to hide or show Windows Updates. This repository is an archive of the troubleshooting file.
+The "Windows Show or Hide Updates Troubleshooter" is a tool Microsoft Corporation had created to hide or show Windows Updates. This repository is an archive of the troubleshooting file.
 <br>
 <br>
 It can hide or show a specific update forever or unless you reverse your decision.
