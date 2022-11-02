@@ -15,13 +15,13 @@ Now, I had decided to create a repository for it due to its low popularity.
 <br>
 Q: What is the features of this troubleshooter?
 <br>
-A: You can hide or show Windows Updates (unless you borrow it) forever in a easy to use GUI.
+A: You can hide or show Windows Updates (unless you reverse your actions) forever in a easy to use GUI.
 <br>
 <br>
 <br>
 Q: In what situation I can use this tool?
 <br>
-A: You can use this tool to hide buggy or problematic Windows Updates, so that the updates will never show or will install again (unless you recall the hiding).
+A: You can use this tool to hide buggy or problematic Windows Updates, so that the updates will never show or will install again (unless you reverse the hiding).
 <br>
 <br>
 <br>
