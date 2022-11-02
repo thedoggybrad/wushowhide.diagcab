@@ -27,4 +27,4 @@ A: You can use this tool to hide buggy or problematic Windows Updates, so that t
 <br>
 Download Link: https://github.com/thedoggybrad/wushowhide.diagcab/raw/main/wushowhide.diagcab
 <br>
-Note: Thedoggybrad will have no liabilities in anyway due to use of this troubleshooting software.
+Note: TheDoggyBrad will have no liabilities in anyway due to use of this troubleshooting software.
