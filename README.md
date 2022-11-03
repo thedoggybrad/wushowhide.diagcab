@@ -25,6 +25,12 @@ A: You can use this tool to hide buggy or problematic Windows Updates, so that t
 <br>
 <br>
 <br>
+Q: Is the file really safe? I am worried about the safety of my computer.
+<br>
+A: It is 100% safe because the file is created by Microsoft themselves, it is not modified in anyway. Not convinced? You may check its safety on VirusTotal that is linked right here: https://www.virustotal.com/gui/file/8723b97b8e4ede3b5b7fd0ba129edfbc113a4db329609f0eaffe24e6a37e019e/summary/
+<br>
+<br>
+<br>
 Download Link: https://github.com/thedoggybrad/wushowhide.diagcab/raw/main/wushowhide.diagcab
 <br>
 Note: TheDoggyBrad will have no liabilities in anyway due to use of this troubleshooting software.
