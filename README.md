@@ -31,6 +31,12 @@ A: It is 100% safe because the file is created by Microsoft themselves, it is no
 <br>
 <br>
 <br>
+Q: What are the minimum system requirements of this troubleshooter?
+<br>
+A: There is no minimum system requirements. The troubleshooter just needs Windows Vista and above, as Vista is the first OS to support the troubleshooters.
+<br>
+<br>
+<br>
 Download Link: https://github.com/thedoggybrad/wushowhide.diagcab/raw/main/wushowhide.diagcab
 <br>
 Note: TheDoggyBrad will have no liabilities in anyway due to use of this troubleshooting software.
