@@ -6,6 +6,12 @@ It can hide or show a specific update forever or unless you reverse your decisio
 <br>
 <br>
 <br>
+![image](https://user-images.githubusercontent.com/94173621/202942664-fb38bd72-a833-4417-b880-caa387ae4977.png)
+<br>
+<br>
+![image](https://user-images.githubusercontent.com/94173621/202942696-cbb454d3-c35e-40bd-a499-9d1fa760f939.png)
+<br>
+<br>
 Q: Why this repository exists in the first place?
 <br>
 A: Microsoft had shutted down the official link of the file. Luckily, it is archived on the WayBack Machine.
