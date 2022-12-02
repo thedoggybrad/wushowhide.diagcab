@@ -49,4 +49,4 @@ Note: TheDoggyBrad will assume no liabilities in anyway due to use of this troub
 <br>
 <br>
 <br>
-Final Note: To observe, preservation of the original file (Published by Microsoft) this repository turned into an archive on December 2, 2022.
+Final Note: To observe, preservation of the original file (Published by Microsoft) this repository turned into an archive on December 2, 2022. The website, the links will still work.
