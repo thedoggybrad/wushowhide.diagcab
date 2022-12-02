@@ -46,3 +46,7 @@ A: There are no minimum system requirements. The troubleshooter just needs Windo
 Download Link: https://github.com/thedoggybrad/wushowhide.diagcab/raw/main/wushowhide.diagcab
 <br>
 Note: TheDoggyBrad will assume no liabilities in anyway due to use of this troubleshooting software.
+<br>
+<br>
+<br>
+Final Note: To observe, preservation of the original file (Published by Microsoft) this repository turned into an archive on December 2, 2022.
